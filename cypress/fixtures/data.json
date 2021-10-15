@@ -1,0 +1,14 @@
+[
+  {
+    "option": "Name (A to Z)"
+  },
+  {
+    "option": "Name (Z to A)"
+  },
+  {
+    "option": "Price (low to high)"
+  },
+  {
+    "option": "Price (high to low)"
+  }
+]

@@ -1,0 +1,30 @@
+[ 
+  {
+    "_comment1":"Verify Login success with valid userID and valid password",
+    "id":1,
+    "username":"mngr356053",
+    "password": "evatary"
+  },
+  {
+    "_comment1":"Verify Login fail with invalid userID and valid password",
+    "id":2,
+    "username":"mngr35605ab",
+    "password": "evatary"
+  },
+  {
+    "_comment1":"Verify Login fail with valid userID and invalid password",
+    "id":3,
+    "username":"mngr356053",
+    "password": "evataryab"
+  },
+  {
+    "_comment1":"Verify Login fail with invalid userID and invalid password",
+    "id":4,
+    "username":"mngr356053ad",
+    "password": "evatary12"
+  }
+]
+
+
+
+

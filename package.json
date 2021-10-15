@@ -1,0 +1,21 @@
+{
+  "name": "cypressauto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "nhu",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.5",
+    "cypress": "^8.6.0"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.175",
+    "browser-sync": "^2.27.5",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  }
+}
